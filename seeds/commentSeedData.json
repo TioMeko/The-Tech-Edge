@@ -1,0 +1,12 @@
+[
+    {
+      "content": "This blog needs to be seen by everyone!",
+      "user_id": 1,
+      "blog_id": 2
+    },
+    {
+      "content": "I could not get through this blog. Who wrote this?",
+      "user_id": 2,
+      "blog_id": 1
+    }
+  ]
