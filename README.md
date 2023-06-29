@@ -11,7 +11,7 @@ The controller acts as the intermediary between the model and the view. It recei
 
 ## Website Showcase
 ### Deployed Application
-[The Tech Edge](https://thetechedge.herokuapp.com/)
+[The Tech Edge](https://thetechedge-f506d3011f09.herokuapp.com/)
 ### Screenshots
 Homepage
 ![insert image here](./public/assets/tteFrontPage.PNG)
